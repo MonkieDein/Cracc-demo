@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+
+var Google_Api_Key = AIzaSyCHd8CKRYqzCJ_Cf1h2QC8OeWnMFHGEAKc
+
